@@ -2,7 +2,7 @@
 
 ### Geography
 
-I live in the city of BAngalore, in the state of Karnataka, in India.
+I live in the city of Bangalore, in the state of Karnataka, in India.
 
 ### Reading
 
