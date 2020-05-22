@@ -1,30 +1,23 @@
-# This is a large heading
+# Mareea Mehbin
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of BAngalore, in the state of Karnataka, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books (or series)  are:
 
-Here is `some code` in the middle of a sentence.
+- *The Nocturne Falls* by Kristen Painter
+- *The Killer Instincts* by Elle Kennedy
+- *Essentialism* by Greg McKeown
 
-```
-This is
-a block
-of code
-```
+### Hobbies
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Singing
+2. Art & Handicrafts
+3. Cooking
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
+The best way to get in touch with me is [on Instagram] (https://www.instagram.com/mareea_mehbin).
